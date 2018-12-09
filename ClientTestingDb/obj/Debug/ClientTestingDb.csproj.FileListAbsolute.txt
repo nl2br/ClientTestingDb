@@ -1,0 +1,7 @@
+C:\Users\marilou\source\repos\ClientTestingDb\ClientTestingDb\obj\Debug\ClientTestingDb.csprojAssemblyReference.cache
+C:\Users\marilou\source\repos\ClientTestingDb\ClientTestingDb\obj\Debug\ClientTestingDb.csproj.CoreCompileInputs.cache
+C:\Users\marilou\source\repos\ClientTestingDb\ClientTestingDb\bin\Debug\ClientTestingDb.exe.config
+C:\Users\marilou\source\repos\ClientTestingDb\ClientTestingDb\bin\Debug\ClientTestingDb.exe
+C:\Users\marilou\source\repos\ClientTestingDb\ClientTestingDb\bin\Debug\ClientTestingDb.pdb
+C:\Users\marilou\source\repos\ClientTestingDb\ClientTestingDb\obj\Debug\ClientTestingDb.exe
+C:\Users\marilou\source\repos\ClientTestingDb\ClientTestingDb\obj\Debug\ClientTestingDb.pdb
